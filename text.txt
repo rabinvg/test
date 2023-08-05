@@ -3,5 +3,7 @@ class Math {
 		a+b
 	}
 
+	func divide() { a / b }
+
 	func multipy() { a * b }
 }
