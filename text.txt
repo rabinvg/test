@@ -4,4 +4,6 @@ class Math {
 	}
 
 	func divide() { a / b }
+
+	func multipy() { a * b }
 }
