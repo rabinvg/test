@@ -2,4 +2,6 @@ class Math {
 	func add() {
 		a+b
 	}
+
+	func multipy() { a * b }
 }
