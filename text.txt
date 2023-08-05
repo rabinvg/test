@@ -2,4 +2,6 @@ class Math {
 	func add() {
 		a+b
 	}
+
+	func divide() { a / b }
 }
