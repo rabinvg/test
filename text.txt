@@ -5,6 +5,8 @@ class Math {
 
 	func divide() { a / b }
 
+	func squareroot() {}//new
+
 	func multipy(a, b) { a * b }
 
 	func square() { a * a}
